@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "notes": "Αυτόματες ενημερώσεις, σύνδεση σε server/Cloud (Tailscale), συνδέσεις e-shop.",
+  "sha256": "60f944dac63ce965e109dbdfd74cc8cc4b4ba3086aa51240f8c8363031191426",
+  "sig": "wM7CsHD15rC20ILTSAT6lrtxTrjm6KK4HNzIFqvHK4yZw48rIzlIU+hO52GtFZySff3r3XSev4Zfl9I/qI2DBQ==",
+  "size": 17890816,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.1/CheckMate-Agro.exe",
+  "version": "2.10.1"
+}

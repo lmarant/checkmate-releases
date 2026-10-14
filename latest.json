@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "notes": "Αυτόματες ενημερώσεις, σύνδεση σε server/Cloud (Tailscale), συνδέσεις e-shop.",
+  "sha256": "316b3a1ffa48219b459fefd204254c7e1e315ddcc9ed7618742baba5a33c13cb",
+  "sig": "UhOGdI5mMtgBtROsP8XR5njBPj5kQWPwy1oN54tuoUBxut/EiCyDIFU6kUAIEHHITsUNSpELnDafop8QIbJxAQ==",
+  "size": 17911296,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.1/CheckMate.exe",
+  "version": "2.10.1"
+}

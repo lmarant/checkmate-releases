@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-14",
+  "notes": "Αυτόματες ενημερώσεις, σύνδεση σε server/Cloud (Tailscale), συνδέσεις e-shop.",
+  "sha256": "57ddf45c9f55b150798a945a1294de981b11c8e70757bfacf42485a8201aa095",
+  "sig": "L4CiGVeXsEbSFPkuxKQ6fU7xYFkdxagSd+JnvISPfAv7ki41sCmXdRJx3SLML/afsVm1axPGMQvvRkUA0yCDBQ==",
+  "size": 17899520,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.1/CheckMate-Fournos.exe",
+  "version": "2.10.1"
+}
