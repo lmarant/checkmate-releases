@@ -1,9 +1,9 @@
 {
   "date": "2026-10-14",
-  "notes": "Ο κλάδος δεν αλλάζει πλέον από το IT: κάθε πρόγραμμα μένει στον κλάδο του.",
-  "sha256": "87cd404f53eb111fbbc3a4d5a026415d19adf9e890af9d9b5b856292d4ff7161",
-  "sig": "YT/IvbDdxUj6+u24fHMLMLLkWtHTa7Z3vrxJj+hJhUSvscU1tYAALuQKTzNpp9rPw3XGPc9cUz+eYYPNPRbuDg==",
-  "size": 17885184,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.2/CheckMate-Agro.exe",
-  "version": "2.10.2"
+  "notes": "Ειδοποίηση ασφαλείας όταν κάποιος βάζει λάθος κωδικό 3 φορές (με την IP του).",
+  "sha256": "ef28957ba354cab6c438f21cddb1010863ed240950b49e9c8fe9b18dc20fca5e",
+  "sig": "Z0hQWj/UX6msA3e03nuyNhjKHv/5/bTEp+ATDG+1iuN992BMhVQsdv5/UpmiWZCEfLSaceIEWxdQUmGC584eAA==",
+  "size": 17901568,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.3/CheckMate-Agro.exe",
+  "version": "2.10.3"
 }

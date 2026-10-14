@@ -1,9 +1,9 @@
 {
   "date": "2026-10-14",
-  "notes": "Ο κλάδος δεν αλλάζει πλέον από το IT: κάθε πρόγραμμα μένει στον κλάδο του.",
-  "sha256": "8b0449e197dc017644584dab596bc757dd3477da529ca355cf17ae7d8a7583fa",
-  "sig": "YaPm6wLwfoRgtLF9nLbeYgzNDj6g1GdfroF2qDiZ79jx0E4q/IU1clYlCcBd8uIqNJqzy9eZysY/rZq59IoKBg==",
-  "size": 17893888,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.2/CheckMate-Fournos.exe",
-  "version": "2.10.2"
+  "notes": "Ειδοποίηση ασφαλείας όταν κάποιος βάζει λάθος κωδικό 3 φορές (με την IP του).",
+  "sha256": "812413e562adba2e17759c965fab3d33ea20f6be82daa333a18759dd46735a1a",
+  "sig": "w/dmXwtV201hKA1HGzuu8J3iY9DgckHYmIPzTbkWRnGJ9IBtRp2Wfh9pX7tTuRslB+N+eVfdNQp20GRIofTXBQ==",
+  "size": 17910272,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.3/CheckMate-Fournos.exe",
+  "version": "2.10.3"
 }

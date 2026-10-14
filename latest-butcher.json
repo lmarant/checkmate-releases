@@ -1,9 +1,9 @@
 {
   "date": "2026-10-14",
-  "notes": "Ο κλάδος δεν αλλάζει πλέον από το IT: κάθε πρόγραμμα μένει στον κλάδο του.",
-  "sha256": "b72d90e64323f075691fe9c5374fa52b3a4240a2cd3c5e1e1695ab323f4136d3",
-  "sig": "e1mYbrJ+lvUvI5vezJkmhDQCA1EKD75pMcHd+MSvH52yOZzGZXcvkge5jQX+pDMMCpRai+HGIYKTIKFa+uIoDA==",
-  "size": 17895424,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.2/CheckMate-Kreopoleio.exe",
-  "version": "2.10.2"
+  "notes": "Ειδοποίηση ασφαλείας όταν κάποιος βάζει λάθος κωδικό 3 φορές (με την IP του).",
+  "sha256": "009672bad3f2e42cae55d9fa59c3ece13c3591cb04a5191e2bd55dff11d4aac1",
+  "sig": "GuJmy+KwDw/fv2jJrU+NVfPh1nOA1BuBlhldteBkR9EVVv92vul4A23R9ZGURhTwByFSiB+QshhkeMw94eGQAA==",
+  "size": 17911808,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.3/CheckMate-Kreopoleio.exe",
+  "version": "2.10.3"
 }
