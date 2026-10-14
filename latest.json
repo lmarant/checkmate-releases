@@ -1,9 +1,9 @@
 {
   "date": "2026-10-14",
-  "notes": "Αυτόματες ενημερώσεις, σύνδεση σε server/Cloud (Tailscale), συνδέσεις e-shop.",
-  "sha256": "316b3a1ffa48219b459fefd204254c7e1e315ddcc9ed7618742baba5a33c13cb",
-  "sig": "UhOGdI5mMtgBtROsP8XR5njBPj5kQWPwy1oN54tuoUBxut/EiCyDIFU6kUAIEHHITsUNSpELnDafop8QIbJxAQ==",
-  "size": 17911296,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.1/CheckMate.exe",
-  "version": "2.10.1"
+  "notes": "Ο κλάδος δεν αλλάζει πλέον από το IT: κάθε πρόγραμμα μένει στον κλάδο του.",
+  "sha256": "03167ef274bf4c965e990a2c194c84494c7440722fbef813109212b9f175102b",
+  "sig": "CKIMm31dZPP+5L+upItyn5vRBkHKEGMtVMYR1imqwE50N1+z7CrVL6QcFAWkgebB33LbdmR58nw/zLA/2/+wDQ==",
+  "size": 17905664,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.2/CheckMate.exe",
+  "version": "2.10.2"
 }
