@@ -1,9 +1,9 @@
 {
   "date": "2026-10-15",
-  "notes": "Οι ειδοποιήσεις για λάθος κωδικούς δεν εμφανίζονται πλέον μέσα στο πρόγραμμα.",
-  "sha256": "dc88701a9b2e4a95dd5f0658d73080d68d42c699444b0c5a3757fce4464ab47d",
-  "sig": "1vxO6pw3o/qNpL3y46AAg7L8IuWZxFpkBt1oCaaBBPIBxx387X65mTL8sdJ/Hvt30ist7XogARZqdxxHglHHBA==",
-  "size": 17897472,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.5/CheckMate-Agro.exe",
-  "version": "2.10.5"
+  "notes": "Νέο, πιο όμορφο παράθυρο ενημέρωσης. Οθόνη φόρτωσης με πρόοδο κατά την ενημέρωση.",
+  "sha256": "9d5f89ee22233fbce1153d7ef72b406e2fb4e87d45f676893ae9b532f7e2091e",
+  "sig": "IUShCaOyCWWqynyX5MMO2E0Nb58SN8UFmPVSBRDbP3WnLKoc8hYJKxxAWIeGLYPCHO9ufWG56UDh65vgMXXlAw==",
+  "size": 17910784,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.6/CheckMate-Agro.exe",
+  "version": "2.10.6"
 }

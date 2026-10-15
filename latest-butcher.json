@@ -1,9 +1,9 @@
 {
   "date": "2026-10-15",
-  "notes": "Οι ειδοποιήσεις για λάθος κωδικούς δεν εμφανίζονται πλέον μέσα στο πρόγραμμα.",
-  "sha256": "777a5065234065b800579356a069944632d3b40a1c789ee897a0fa2738a1ba1e",
-  "sig": "eOsN4gl+1VipP2DIoydISbr8N+rwUW1IaiMGvnuOeG1Fd/AtpkQiwbcTOruEPZ+OFp9hEDiWN/Wu6nv7YIVcDg==",
-  "size": 17907712,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.5/CheckMate-Kreopoleio.exe",
-  "version": "2.10.5"
+  "notes": "Νέο, πιο όμορφο παράθυρο ενημέρωσης. Οθόνη φόρτωσης με πρόοδο κατά την ενημέρωση.",
+  "sha256": "65d2f3726fbf989b53985e99d60a592f4202db2043f77ec5bcc764fa17879950",
+  "sig": "WC5R4Fdm5uhBfQ6TisSf56E/rMLMyzMbING6Z8Acwd+qxqFxbUtsu/j7oabCdWwv+QRhIH3WmnAgyq7vU1HhAA==",
+  "size": 17921024,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.6/CheckMate-Kreopoleio.exe",
+  "version": "2.10.6"
 }
