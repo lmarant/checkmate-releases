@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-14",
-  "notes": "Ειδοποίηση ασφαλείας όταν κάποιος βάζει λάθος κωδικό 3 φορές (με την IP του).",
-  "sha256": "ef28957ba354cab6c438f21cddb1010863ed240950b49e9c8fe9b18dc20fca5e",
-  "sig": "Z0hQWj/UX6msA3e03nuyNhjKHv/5/bTEp+ATDG+1iuN992BMhVQsdv5/UpmiWZCEfLSaceIEWxdQUmGC584eAA==",
-  "size": 17901568,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.3/CheckMate-Agro.exe",
-  "version": "2.10.3"
+  "date": "2026-10-15",
+  "notes": "Pop-up στην Αρχική όταν υπάρχει νέα ενημέρωση.",
+  "sha256": "96768b955ac20715bca9befab2ee62241d8fff008a3bf6e984651dee33682f7a",
+  "sig": "lp3IdJza/8kVi3MTgbS1Ge07IY/kgq5cqK4sWcvCzpQ0slyBVFDpLLsDiWBM01yw1Mf0qmZpPb3MTl6sYPYqDA==",
+  "size": 17903616,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.4/CheckMate-Agro.exe",
+  "version": "2.10.4"
 }
