@@ -1,9 +1,9 @@
 {
   "date": "2026-10-15",
-  "notes": "Pop-up στην Αρχική όταν υπάρχει νέα ενημέρωση.",
-  "sha256": "7cb03a0bdd1bdbc7421faeb9136b1ff23b331392f79647147a4ceb9195da4c27",
-  "sig": "XYSY7c/llb1WMHPFkDD3RAGWiF8W8S5ZT/ue1wdbnZuDLssnqijQCpslLRDTV+rrqPB9fgzx9rToNRLZVYYCAg==",
-  "size": 17912320,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.4/CheckMate-Fournos.exe",
-  "version": "2.10.4"
+  "notes": "Οι ειδοποιήσεις για λάθος κωδικούς δεν εμφανίζονται πλέον μέσα στο πρόγραμμα.",
+  "sha256": "97555c9c276c32d169e2b3d93e5499f96ff919f94e1b87d61dcfe8922ab1aff0",
+  "sig": "hax77vACOz/cu84dVanW+dFCWE6l2W8FxkBE60gcp2nYq7UhARlTTr62bRlY1AyLehKK9qViheCc1POxxGXODg==",
+  "size": 17906176,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.5/CheckMate-Fournos.exe",
+  "version": "2.10.5"
 }
