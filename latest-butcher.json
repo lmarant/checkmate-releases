@@ -1,9 +1,9 @@
 {
   "date": "2026-10-15",
-  "notes": "Νέο, πιο όμορφο παράθυρο ενημέρωσης. Οθόνη φόρτωσης με πρόοδο κατά την ενημέρωση.",
-  "sha256": "65d2f3726fbf989b53985e99d60a592f4202db2043f77ec5bcc764fa17879950",
-  "sig": "WC5R4Fdm5uhBfQ6TisSf56E/rMLMyzMbING6Z8Acwd+qxqFxbUtsu/j7oabCdWwv+QRhIH3WmnAgyq7vU1HhAA==",
-  "size": 17921024,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.6/CheckMate-Kreopoleio.exe",
-  "version": "2.10.6"
+  "notes": "Νέοι τύποι παραστατικών: Τίτλος Κτήσης 3.1/3.2 (αγορά από αγρότη ή ιδιώτη), Εκκαθάριση Πωλήσεων Τρίτων 1.5, Συμβόλαιο-Έσοδο 7.1, Δελτίο Παραγγελίας Εστίασης 8.6. Οι τύποι εμφανίζονται σε ομάδες. Η μονάδα μπαίνει αυτόματα από την περιγραφή (π.χ. «1 λίτρο» → Λίτρα). Το ΤΔΑΠ βγήκε από το μενού (υπάρχει στο Νέο παραστατικό).",
+  "sha256": "1692b43ea6942f673296a223711ecd33351463a87aa0c193cdadf634e61cd021",
+  "sig": "ClMtn8mmB4I7gqySmhRY3BbJluzv3qfb0SvXJBr/Df32+Jq/R6MtVraYRJD8QflVURj7/kJOKIQjPBDjuBTtAQ==",
+  "size": 17938944,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.7/CheckMate-Kreopoleio.exe",
+  "version": "2.10.7"
 }

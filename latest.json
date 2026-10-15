@@ -1,9 +1,9 @@
 {
   "date": "2026-10-15",
-  "notes": "Νέο, πιο όμορφο παράθυρο ενημέρωσης. Οθόνη φόρτωσης με πρόοδο κατά την ενημέρωση.",
-  "sha256": "de93cc8aedbec3634585d806ec6f91c8141fd4fe84024a87520fbf64e5f0b03f",
-  "sig": "705NTeYrAkPeNhuWnkzPuuYgJQlwfd7Ek4OAP8sQuDeiEIULKqGGEj2i2L2f00cPsmNv244hZGnl4br6p3O+Ag==",
-  "size": 17931264,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.6/CheckMate.exe",
-  "version": "2.10.6"
+  "notes": "Νέοι τύποι παραστατικών: Τίτλος Κτήσης 3.1/3.2 (αγορά από αγρότη ή ιδιώτη), Εκκαθάριση Πωλήσεων Τρίτων 1.5, Συμβόλαιο-Έσοδο 7.1, Δελτίο Παραγγελίας Εστίασης 8.6. Οι τύποι εμφανίζονται σε ομάδες. Η μονάδα μπαίνει αυτόματα από την περιγραφή (π.χ. «1 λίτρο» → Λίτρα). Το ΤΔΑΠ βγήκε από το μενού (υπάρχει στο Νέο παραστατικό).",
+  "sha256": "8985ca48a667255388d937a7e9d0075518d4cba92085f09c9d9bf435811d8631",
+  "sig": "ueYR8NVFT1VORU9AK8H2v2YyOtdpllCPwwsVtqchDBRvhap2LV0afaUc78gIV1uUdTFwsWbSkFlam82vs5rCAw==",
+  "size": 17949184,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.7/CheckMate.exe",
+  "version": "2.10.7"
 }
