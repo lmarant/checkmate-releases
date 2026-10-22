@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-15",
-  "notes": "Νέοι τύποι παραστατικών: Τίτλος Κτήσης 3.1/3.2 (αγορά από αγρότη ή ιδιώτη), Εκκαθάριση Πωλήσεων Τρίτων 1.5, Συμβόλαιο-Έσοδο 7.1, Δελτίο Παραγγελίας Εστίασης 8.6. Οι τύποι εμφανίζονται σε ομάδες. Η μονάδα μπαίνει αυτόματα από την περιγραφή (π.χ. «1 λίτρο» → Λίτρα). Το ΤΔΑΠ βγήκε από το μενού (υπάρχει στο Νέο παραστατικό).",
-  "sha256": "f31e611619982bef01f5005c52bd193aecadb4ea3b09cacd9e9629ecfc2a277d",
-  "sig": "3LWxvaeSqwMgjiDHdM1WBwAxDgvEv23J79npQQWRt/lek0dLxa1n43fWffkM3Qx8osagSZkOf8DQeA2g259lCQ==",
-  "size": 17937408,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.7/CheckMate-Fournos.exe",
-  "version": "2.10.7"
+  "date": "2026-10-22",
+  "notes": "Δεν γίνεται πλέον «πίσω» με σάρωση στο touchpad. Αν υπάρχουν ανοιχτές οθόνες, το CheckMate ρωτά πριν κλείσει. Οι ανοιχτές οθόνες κρατιούνται.",
+  "sha256": "85eb53a03b1055a9b0cb5df2ff45cd1251f30f5e8933b1368eed2fa9921943b6",
+  "sig": "+eK5TQ5AjzXw465zGvc9Dpf+JrkoaSxEgs2utcN1tHGFQRVSaoGeHFyBUnnb7NgUC+R8S59KEf0lQiLU8QAyDQ==",
+  "size": 17942528,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.8/CheckMate-Fournos.exe",
+  "version": "2.10.8"
 }
