@@ -1,9 +1,9 @@
 {
   "date": "2026-10-22",
-  "notes": "Δεν γίνεται πλέον «πίσω» με σάρωση στο touchpad. Αν υπάρχουν ανοιχτές οθόνες, το CheckMate ρωτά πριν κλείσει. Οι ανοιχτές οθόνες κρατιούνται.",
-  "sha256": "85eb53a03b1055a9b0cb5df2ff45cd1251f30f5e8933b1368eed2fa9921943b6",
-  "sig": "+eK5TQ5AjzXw465zGvc9Dpf+JrkoaSxEgs2utcN1tHGFQRVSaoGeHFyBUnnb7NgUC+R8S59KEf0lQiLU8QAyDQ==",
-  "size": 17942528,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.8/CheckMate-Fournos.exe",
-  "version": "2.10.8"
+  "notes": "Το CheckMate ζητά πλέον ενεργοποίηση: κωδικό σύνδεσης της συνδρομής CheckMate Cloud ή κλειδί άδειας. Σαφή μηνύματα όταν ένας κωδικός είναι λάθος.",
+  "sha256": "3fabe56172f8b40365889d534c7ccef1001b128d41426a7351bb0f87c03944c2",
+  "sig": "//E/5BnEO069Kk4W21J/PsPD7KzCrfq61SurGuzeUYyednCqxsFF40BNWG3/6IzVQvZLQ0PewWHkOPD0fH20Dg==",
+  "size": 17968128,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.9/CheckMate-Fournos.exe",
+  "version": "2.10.9"
 }
