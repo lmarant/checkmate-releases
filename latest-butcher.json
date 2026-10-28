@@ -1,9 +1,9 @@
 {
   "date": "2026-10-28",
   "notes": "Ψηφιακό Δελτίο Αποστολής Φάση Β (έναρξη, παράδοση, επιστροφή, παραλαβή/απόρριψη εισερχόμενων), ενδοδιακίνηση με αριθμό εγκατάστασης ΑΑΔΕ και άμεση αποστολή, Αποδείξεις POS 8.4/8.5, κωδικός TARIC στα είδη, νέα οθόνη Στόχοι επιχείρησης.",
-  "sha256": "36074f430cea49f6f422c847dd3193e5503073a9b5472c9cb13fa5c115719885",
-  "sig": "RP6fumC+gZgr+ZWSLlgZ9hB2klw2CW2AC38HhLCBpEX+2MaMJ5GkF1L2N1bjHLPlVaYMtDzNKL/3Xu1NzLAnAg==",
+  "sha256": "9ad222e90ed2afb8271b40b30190c8afd021bd01a94a593118b3986d2e5def24",
+  "sig": "AYRTDDv6frbocunMUzwgiMy+KfeS1tpipU3HMcK2vmk1tKdW5eRy3r1JUGVdDEdM8B3YhKasT+TcxmeA1mYSCw==",
   "size": 18147840,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.11.0/CheckMate-Kreopoleio.exe",
-  "version": "2.11.0"
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.11.1/CheckMate-Kreopoleio.exe",
+  "version": "2.11.1"
 }
