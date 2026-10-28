@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-22",
-  "notes": "Το CheckMate ζητά πλέον ενεργοποίηση: κωδικό σύνδεσης της συνδρομής CheckMate Cloud ή κλειδί άδειας. Σαφή μηνύματα όταν ένας κωδικός είναι λάθος.",
-  "sha256": "5bf1d28bf4058e07f349fc01724364a075f9bb977201186440fa8122d1535a7a",
-  "sig": "icrw5i0GQBxNseZCCt5Lqm7F8UMWPTuTf+lpb+oCoZvnyk9IAlLG9pZtw7A08nYAhyfOU4sRsh4CR5OelY7MAg==",
-  "size": 17979904,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.10.9/CheckMate.exe",
-  "version": "2.10.9"
+  "date": "2026-10-28",
+  "notes": "Ψηφιακό Δελτίο Αποστολής Φάση Β (έναρξη, παράδοση, επιστροφή, παραλαβή/απόρριψη εισερχόμενων), ενδοδιακίνηση με αριθμό εγκατάστασης ΑΑΔΕ και άμεση αποστολή, Αποδείξεις POS 8.4/8.5, κωδικός TARIC στα είδη, νέα οθόνη Στόχοι επιχείρησης.",
+  "sha256": "ec060409658c765169cb64cc7554e098a45965c6fec2b8deb610642aaaed60fa",
+  "sig": "h4aWJHlEhDtTSOBnWXGbAmPA6kwo/bDA86Rok5oWON0zvYar9eyLyzTNCd+C2hXFTOO9+KQ5XNPYArpjRNueAg==",
+  "size": 18158080,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.11.0/CheckMate.exe",
+  "version": "2.11.0"
 }
