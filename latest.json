@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-28",
-  "notes": "Ψηφιακό Δελτίο Αποστολής Φάση Β (έναρξη, παράδοση, επιστροφή, παραλαβή/απόρριψη εισερχόμενων), ενδοδιακίνηση με αριθμό εγκατάστασης ΑΑΔΕ και άμεση αποστολή, Αποδείξεις POS 8.4/8.5, κωδικός TARIC στα είδη, νέα οθόνη Στόχοι επιχείρησης.",
-  "sha256": "35c2cfc5f99201cfeb8292fd3e2655ba5287a0bda95a77b97cdfb1857db2a4d3",
-  "sig": "few79eBTu6vfMilss5jJC5Vg0KkT79XRw4SkeoBjxJqzwd8Qh035vTJUlAvzvIVPuHnwwHqsqRnr1SZOSxb8DQ==",
-  "size": 18158080,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.11.1/CheckMate.exe",
-  "version": "2.11.1"
+  "date": "2026-10-30",
+  "notes": "Ο κατασκευαστής μπορεί να ακυρώσει μια άδεια όποτε χρειαστεί· βελτιώσεις σύνδεσης με το CheckMate Cloud.",
+  "sha256": "8b483a08a2cf7a0996a7b0f1c2c5c4c309d7f3fbecf663dc7fdf1ebe74b98a72",
+  "sig": "goyxnDaUgteTwGR6GQIGf7S0tkKlJXt1oDFXakHBYhK3hd0ZbAVlqD/9NNr5AgtDkjwEYhOe+sm6a+y83dlqCA==",
+  "size": 18166784,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.12.0/CheckMate.exe",
+  "version": "2.12.0"
 }
