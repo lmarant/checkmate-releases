@@ -1,9 +1,9 @@
 {
   "date": "2026-10-30",
-  "notes": "Ο κατασκευαστής μπορεί να ακυρώσει μια άδεια όποτε χρειαστεί· βελτιώσεις σύνδεσης με το CheckMate Cloud.",
-  "sha256": "46f545e0c90b1a28f717a3ffe99535eec039bcd8a3637c262f6e8ab6db537302",
-  "sig": "63brnQhkXuubeIYGDlpV4zI2gIJyqfRPKZn7X3TQ9tZX6O8Rr1mgz3AFZLjTRx/SIMl+kbkKiSak950/UZp7DQ==",
-  "size": 18146304,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.12.0/CheckMate-Agro.exe",
-  "version": "2.12.0"
+  "notes": "Ενεργοποίηση μόνο με κλειδί από τον κατασκευαστή (Cloud ή τοπικά)· ειδοποιήσεις ασφαλείας στο IT· έλεγχος ακύρωσης κάθε 1 ώρα.",
+  "sha256": "e891718ace5aea669f17f924ac6e3f9c07dc32866a2a286d6ceafd929c67f08e",
+  "sig": "mSPosMYKAdJRV8W/pulILsxZiKZpSsu6mlgp1Kg5+R8FpFpNAlgYkH8wlKVwHgFSWTssWtAtn8FSU+6HyyorBg==",
+  "size": 18144256,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.12.1/CheckMate-Agro.exe",
+  "version": "2.12.1"
 }
