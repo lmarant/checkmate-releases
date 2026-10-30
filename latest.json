@@ -1,9 +1,9 @@
 {
   "date": "2026-10-30",
-  "notes": "Ενεργοποίηση μόνο με κλειδί από τον κατασκευαστή (Cloud ή τοπικά)· ειδοποιήσεις ασφαλείας στο IT· έλεγχος ακύρωσης κάθε 1 ώρα.",
-  "sha256": "8d5ce720a6132ef86a1edbebbdc70db4e6ee3c129b7e661f4539737a008ca2d0",
-  "sig": "/SDQDlxaNE+C6R81XMtY3clcDWirr7KxI7H95ZXLy4d1eYvrkg0j5tuxzg6adf8+J9aRDcmfmubLxokaiBlfBA==",
-  "size": 18164736,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.12.1/CheckMate.exe",
-  "version": "2.12.1"
+  "notes": "Νέο κουμπί 🆘 Βοήθεια: αιτήματα υποστήριξης απευθείας στον τεχνικό, με απαντήσεις μέσα στο πρόγραμμα.",
+  "sha256": "1328099fedb4767d38b9d93dd36370a9524e9bf2a17d39b7065f168be2e8f61c",
+  "sig": "U4VCTvzYVxOlpUAWxQQTQ60SB5dV8U5CTVtxgZpz0zLeNMLw9BcUrhICOFk66wofOqObVNIEFVkxoX2wEaHbBQ==",
+  "size": 18196992,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.13.0/CheckMate.exe",
+  "version": "2.13.0"
 }

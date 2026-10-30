@@ -1,9 +1,9 @@
 {
   "date": "2026-10-30",
-  "notes": "Ενεργοποίηση μόνο με κλειδί από τον κατασκευαστή (Cloud ή τοπικά)· ειδοποιήσεις ασφαλείας στο IT· έλεγχος ακύρωσης κάθε 1 ώρα.",
-  "sha256": "730720c988d96fb6137c36e43bdf171d60199fb4b7ee5d8bfb8275ca62e705a5",
-  "sig": "A+mRqK/xWZB+b2Thwrx4QgQCXXxhe/dQsxQfBfvbk3/a296WFtaIJtvEXqdRI2w3xycyweg+7GjXKhKp4bTOAw==",
-  "size": 18154496,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.12.1/CheckMate-Kreopoleio.exe",
-  "version": "2.12.1"
+  "notes": "Νέο κουμπί 🆘 Βοήθεια: αιτήματα υποστήριξης απευθείας στον τεχνικό, με απαντήσεις μέσα στο πρόγραμμα.",
+  "sha256": "79982df03d98114184a9d862e5c5ba802d3e05a64a517fb928a110bbb5fc92d3",
+  "sig": "VUPsnI/tzQe5g38cjpD9ahoX6WVV5QJ60TVWs5s9QEK3Jv3N+4dfRGCAaK7fK80vNFrFY1MoY4lib+5PASPICw==",
+  "size": 18186752,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.13.0/CheckMate-Kreopoleio.exe",
+  "version": "2.13.0"
 }
