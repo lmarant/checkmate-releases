@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-31",
-  "notes": "Κρυπτογράφηση όλων των δεδομένων (AES-256) με κωδικό ανάκτησης· κρυπτογραφημένη σύνδεση (TLS 1.3) μεταξύ των υπολογιστών της επιχείρησης.",
-  "sha256": "8d9f695e84d7377ee13c242f3947737ddb96fda5f888f529c3a2d37b9e2152a0",
-  "sig": "KdDqJntsdCXB1QRh8pwO9SAljN0vFDLHjOkFjFYvzAZ/BrU5fgGiNY8o3w0viB+cTCRi2i7cnPdmFdaMIo1KDg==",
-  "size": 19948032,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.14.0/CheckMate-Fournos.exe",
-  "version": "2.14.0"
+  "date": "2026-11-01",
+  "notes": "Βοήθεια: ο διαχειριστής μπορεί να επιτρέψει στον τεχνικό να δει τα δεδομένα του προγράμματος (μόνο ανάγνωση, με χρονικό όριο, χωρίς κωδικούς) για γρηγορότερη λύση προβλημάτων.",
+  "sha256": "c6e9101db2c6b56aa93f60d0f12075bbaf45369aad36cfe3d1a2bbfee8551f4c",
+  "sig": "UFjrIPceR0oqTiQJEFsWE2GP687O6VhtA34JmwamBOVSDx3iMBIXEoEV674zOEEG3xqQZfcAJBZd3u00BEa6Ag==",
+  "size": 19985408,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.15.0/CheckMate-Fournos.exe",
+  "version": "2.15.0"
 }
