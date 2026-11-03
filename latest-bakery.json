@@ -1,9 +1,9 @@
 {
   "date": "2026-11-03",
-  "notes": "Βοήθεια: στο αίτημα φαίνονται μόνο τα μηνύματά σας και οι απαντήσεις της υποστήριξης.",
-  "sha256": "8a4088e9510edf264a4564effe98126a5a8ff82963f6f396e0869a3d10984322",
-  "sig": "ysWAIfvVO9PRpQnUH6T78CJQf6ABiXUaQULpG2gdRu6zCcXWlb96o3qxC98ddTFXotesnOfDR8v6p3cib3DbAQ==",
-  "size": 19985408,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.15.1/CheckMate-Fournos.exe",
-  "version": "2.15.1"
+  "notes": "Μετά από ενημέρωση το CheckMate ανοίγει μπροστά, όχι πίσω από άλλα παράθυρα (π.χ. Chrome).",
+  "sha256": "af07b9692f86d0c02c2f5c39028041a0999cee874c998ebc2aa141dbfe0bd1be",
+  "sig": "a3C2ukRMS722Trd0YeGHLhj+XF30bAmkI8yshp/o8idI2WZQhSnHSjRHOOsR6X4H02kswcw78wSEdhLSyVToCw==",
+  "size": 19988480,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.15.2/CheckMate-Fournos.exe",
+  "version": "2.15.2"
 }
