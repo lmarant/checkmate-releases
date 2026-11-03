@@ -1,9 +1,9 @@
 {
   "date": "2026-11-03",
-  "notes": "Μετά από ενημέρωση το CheckMate ανοίγει μπροστά, όχι πίσω από άλλα παράθυρα (π.χ. Chrome).",
-  "sha256": "871a38f35b98074504f38a9afd5feb137fcb9cd46622dab6aae1c7717421afc2",
-  "sig": "pebYEnxpe4A9824k6ciDQ1r40xl6WB+YVIDGU12NfXLqdzwbQ6DHcfT+4yCIoakovYceaF//JYz494hg/sj5Bw==",
-  "size": 19990016,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.15.2/CheckMate-Kreopoleio.exe",
-  "version": "2.15.2"
+  "notes": "Αξιόγραφα (επιταγές και συναλλαγματικές με χαρτοφυλάκιο, λήξεις, κατάθεση, μεταβίβαση, σφράγιση), συμψηφισμοί πελάτη–προμηθευτή, μεταφορά πελατών/προμηθευτών με υπόλοιπα από άλλο πρόγραμμα, αρχείο Excel για τον λογιστή.",
+  "sha256": "8d6e757df979aa2de2da3420196cf3ae59b1e2561e4227548b1c9cd9b9918137",
+  "sig": "C0S9mNNPDJlYji8jKPohjNf7pS526D8GHNyU9M6GbtMRweIsma1xaUEIB0QjxtB9uzigTvEekeal/vWEmARdCA==",
+  "size": 20192768,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.16.0/CheckMate-Kreopoleio.exe",
+  "version": "2.16.0"
 }

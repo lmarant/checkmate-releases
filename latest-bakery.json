@@ -1,9 +1,9 @@
 {
   "date": "2026-11-03",
-  "notes": "Μετά από ενημέρωση το CheckMate ανοίγει μπροστά, όχι πίσω από άλλα παράθυρα (π.χ. Chrome).",
-  "sha256": "af07b9692f86d0c02c2f5c39028041a0999cee874c998ebc2aa141dbfe0bd1be",
-  "sig": "a3C2ukRMS722Trd0YeGHLhj+XF30bAmkI8yshp/o8idI2WZQhSnHSjRHOOsR6X4H02kswcw78wSEdhLSyVToCw==",
-  "size": 19988480,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.15.2/CheckMate-Fournos.exe",
-  "version": "2.15.2"
+  "notes": "Αξιόγραφα (επιταγές και συναλλαγματικές με χαρτοφυλάκιο, λήξεις, κατάθεση, μεταβίβαση, σφράγιση), συμψηφισμοί πελάτη–προμηθευτή, μεταφορά πελατών/προμηθευτών με υπόλοιπα από άλλο πρόγραμμα, αρχείο Excel για τον λογιστή.",
+  "sha256": "4e5faa5e218387dbdeb90aa40d83c3970e6686514a102425a8409b53548d078a",
+  "sig": "/ZfPywve7+8R6gmZqkroOspjNTiljVfxP0dh60PNMQwm3ArrYhp6BjMZpzumBNWubyOJjbFYcYKKbwpGmYLoDw==",
+  "size": 20191232,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.16.0/CheckMate-Fournos.exe",
+  "version": "2.16.0"
 }

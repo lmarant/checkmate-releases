@@ -1,9 +1,9 @@
 {
   "date": "2026-11-03",
-  "notes": "Μετά από ενημέρωση το CheckMate ανοίγει μπροστά, όχι πίσω από άλλα παράθυρα (π.χ. Chrome).",
-  "sha256": "66c7a1237f4b55963e18ebaac504a8a3ccd0cdbe8e3bd8b647a031dcc54e8265",
-  "sig": "2G+LH6VNg22k9U1T9QmHrdwgWAo1+X7Ws6zEAd8/Z1gGlU9Ah28ORzX/QCSgcNgwWDKF/2gys3HTf3sCXnF0AA==",
-  "size": 19979776,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.15.2/CheckMate-Agro.exe",
-  "version": "2.15.2"
+  "notes": "Αξιόγραφα (επιταγές και συναλλαγματικές με χαρτοφυλάκιο, λήξεις, κατάθεση, μεταβίβαση, σφράγιση), συμψηφισμοί πελάτη–προμηθευτή, μεταφορά πελατών/προμηθευτών με υπόλοιπα από άλλο πρόγραμμα, αρχείο Excel για τον λογιστή.",
+  "sha256": "66bd9e92bc86ba43913610e149c09d7bca7148d45c5ce0258909ac0195d7007a",
+  "sig": "njb/Z0iwAoW8H/kvVzEv0TcIebA8uousc8/DuwzxfT9RkLgvpRkISTZlczffFwCOTNSD7m05IhG5+RA6LEvrAw==",
+  "size": 20182528,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.16.0/CheckMate-Agro.exe",
+  "version": "2.16.0"
 }
