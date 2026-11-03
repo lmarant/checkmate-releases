@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-01",
-  "notes": "Βοήθεια: ο διαχειριστής μπορεί να επιτρέψει στον τεχνικό να δει τα δεδομένα του προγράμματος (μόνο ανάγνωση, με χρονικό όριο, χωρίς κωδικούς) για γρηγορότερη λύση προβλημάτων.",
-  "sha256": "bd7c48ccaeb2f51caaf08f5638db98187cae60cdc084d7ad38d27c3aeb8d9e20",
-  "sig": "UZtJBjNI4TSb4gVXAuvKe5GPHonN7/3jzbTsdbhinlsH6OuZpoSqoI3/eIl2tjSGTcTyLjePzh+r8PaeNiHeAQ==",
+  "date": "2026-11-03",
+  "notes": "Βοήθεια: στο αίτημα φαίνονται μόνο τα μηνύματά σας και οι απαντήσεις της υποστήριξης.",
+  "sha256": "f6ff5d3465b6ee385ad6598dab3f7ea3c7da63bae1edc3005b85dc1b39679174",
+  "sig": "lj4ydnxPdmcoGQ0vpX7cMU6fZmgmgnE3Q/ylm08zcUWZHjdUIB0ZIuLG6KRG7ISlVwhaOcCIlzFBK8K8fsEbCA==",
   "size": 19976704,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.15.0/CheckMate-Agro.exe",
-  "version": "2.15.0"
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.15.1/CheckMate-Agro.exe",
+  "version": "2.15.1"
 }
