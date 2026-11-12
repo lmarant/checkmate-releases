@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-03",
-  "notes": "Αξιόγραφα (επιταγές και συναλλαγματικές με χαρτοφυλάκιο, λήξεις, κατάθεση, μεταβίβαση, σφράγιση), συμψηφισμοί πελάτη–προμηθευτή, μεταφορά πελατών/προμηθευτών με υπόλοιπα από άλλο πρόγραμμα, αρχείο Excel για τον λογιστή.",
-  "sha256": "66bd9e92bc86ba43913610e149c09d7bca7148d45c5ce0258909ac0195d7007a",
-  "sig": "njb/Z0iwAoW8H/kvVzEv0TcIebA8uousc8/DuwzxfT9RkLgvpRkISTZlczffFwCOTNSD7m05IhG5+RA6LEvrAw==",
-  "size": 20182528,
-  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.16.0/CheckMate-Agro.exe",
-  "version": "2.16.0"
+  "date": "2026-11-13",
+  "notes": "Η υποστήριξη μπορεί πλέον να κάνει ρυθμίσεις και διορθώσεις απομακρυσμένα, χωρίς AnyDesk· κάθε ενέργεια καταγράφεται στο Ημερολόγιο ενεργειών. Νέο: πρόσθετα ειδικά για την επιχείρησή σας (IT → Πρόσθετα \u0026 απομακρυσμένα).",
+  "sha256": "56f281131d4ae07c31e19725526d60535d7b6d4f7a39d3e31163cf5c87de09cd",
+  "sig": "oBfpwKBHetHygAGmsan2R+R6zYOdKLfnyPSpn6ADgR+Fx4tfH8vfE1lA+/c8sb9dS2SMINweU9U/NspsOPAtAA==",
+  "size": 27354624,
+  "url": "https://raw.githubusercontent.com/lmarant/checkmate-releases/main/v2.17.0/CheckMate-Agro.exe",
+  "version": "2.17.0"
 }
